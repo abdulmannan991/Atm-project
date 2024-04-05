@@ -1,2 +1,3 @@
-# cli-number-guessing
-This is a cli based number guessing game
+# Atm-project
+it's work like a atm
+
